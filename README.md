@@ -1,10 +1,9 @@
 # Dyanmic-Clipboard-Update
-A project developed in C# that allows user to dynamically modify Clipboard Content.
+A project developed in C#, using EventHook package, that allows user to dynamically modify Clipboard Content on the occurence of a pre-defined Mouse or Keyboard Event.
 
 <h2>Usage</h2>
-Set <b>text</b> variable in the program to any string that you want to update word by word on Clipboard.
-<b>Run</b> the program
-Press <b>Tab</b> to update cliboard with the next word in string
+Set <b>text</b> variable in the program to any string that you want to update word by word on Clipboard. <br>
+<b>Run</b> the program. Press <b>Tab</b> to update cliboard with the next word in string
 
 <h2>Utility</h2>
 I developed this program to ease the process of writing Call-Routing Vectors in Avaya Ecosystem. Currently there exists no method to 
