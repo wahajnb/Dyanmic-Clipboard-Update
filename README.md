@@ -1,4 +1,4 @@
-# Dyanmic-Clipboard-Update
+# Dyanmic Clipboard Update
 A project developed in C#, using EventHook package, that allows user to dynamically modify Clipboard Content on the occurence of a pre-defined Mouse or Keyboard Event.
 
 <h2>Usage</h2>
